@@ -4,4 +4,5 @@ O autor não se responsabiliza por qualquer uso indevido, ilegal ou fora do esco
 
 Desenvolvido por Ciel.
 
-![Preview]https://i.imgur.com/lNVFF8p.png
+               ![Preview]
+<img src="https://i.imgur.com/lNVFF8p.png" width="800">
