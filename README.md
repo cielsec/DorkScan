@@ -3,4 +3,5 @@ A ferramenta foi criada exclusivamente para fins educacionais, laboratoriais e a
 O autor não se responsabiliza por qualquer uso indevido, ilegal ou fora do escopo permitido.
 
 Desenvolvido por Ciel.
-https://prnt.sc/QtGU5Kqfv4_A
+
+https://i.imgur.com/lNVFF8p.png
